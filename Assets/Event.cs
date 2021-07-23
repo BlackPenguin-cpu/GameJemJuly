@@ -25,7 +25,7 @@ public class NewBehaviourScript : MonoBehaviour
             time = 0;
             if (ship)
             {
-                if (Random.Range(1, 100)>windchance)
+                if (Random.Range(1, 101)>windchance)
                 {
                     //여기는 배 시스템이 생겨야 만들수 있을듯 합니다.
                 }
